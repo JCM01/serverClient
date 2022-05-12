@@ -1,0 +1,27 @@
+[{	
+	"dni": "516664422K",
+	"nombre": "Pepe",
+	"apellidos": "Sanchez Robles",
+	"direccion": {
+		"calle": "Oca",
+		"numero": 24,
+		"piso": 1,
+		"letra": "A"
+	},
+	"edad": 25,
+	"casado": true,
+	"aficiones": ["Lectura", "Cine", "Senderismo", "Teatro"]
+}, {
+	"dni": "333322224P",
+	"nombre": "Rosa",
+	"apellidos": "De Lucas Miguel",
+	"direccion": {
+		"calle": "Barlovento",
+		"numero": 4,
+		"piso": 9,
+		"letra": "C"
+	},
+	"edad": 35,
+	"casado": false,
+	"aficiones": ["Padel", "Tenis", "Senderismo", "Teatro"]
+}]

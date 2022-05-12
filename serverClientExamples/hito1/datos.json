@@ -1,0 +1,73 @@
+[
+  
+  {
+  		"id":2345,
+		"nombre":"Coliflor",
+		"procedencia":"España",
+		"foto":"https://www.freepngimg.com/thumb/categories/2970.png",
+		"cantidad":20,
+		"precio": 1
+	},
+	{	"id":7345,
+		"nombre":"Pimientos",
+		"procedencia":"España",
+		"foto":"https://www.nicepng.com/png/detail/52-525615_green-bell-pepper-png-green-capsicum-png.png",
+		"cantidad":40,
+		"precio": 2.07
+	},
+	{	
+		"id":1056,
+		"nombre":"Ajos",
+		"procedencia":"España",
+		"foto":"https://www.freepngimg.com/thumb/garlic/2-2-garlic-transparent-thumb.png",
+		"cantidad":10,
+		"precio": 2
+	},
+	{	
+		"id":1145,
+		"nombre":"Remolacha",
+		"procedencia":"Marruecos",
+		"foto":"https://pngimg.com/uploads/beet/beet_PNG28.png",
+		"cantidad":80,
+		"precio": 2
+	},
+	{	
+		"id":1365,
+		"nombre":"Tomates",
+		"procedencia":"España",
+		"foto":"https://www.freepngimg.com/thumb/categories/2985.png",
+		"cantidad":90,
+		"precio": 1.80
+	},
+	{	"id":1632,
+		"nombre":"Apio",
+		"procedencia":"Chile",
+		"foto":"https://w7.pngwing.com/pngs/252/146/png-transparent-celeriac-leaf-vegetable-food-celery-herbes-leaf-vegetable-food-plant-stem-thumbnail.png",
+		"cantidad":58,
+		"precio": 1.60
+	},
+	{	
+		"id":1845,
+		"nombre":"Zanahorias",
+		"procedencia":"España",
+		"foto":"https://www.freepngimg.com/thumb/categories/2971.png",
+		"cantidad":34,
+		"precio": 1.35
+	},
+	{	
+		"id":196,
+		"nombre":"Cebollas",
+		"procedencia":"España",
+		"foto":"https://www.freepngimg.com/thumb/onion/10-red-onion-png-image-thumb.png",
+		"cantidad":65,
+		"precio": 1.99
+	},
+	{	
+		"id":2057,
+		"nombre":"Patatas",
+		"procedencia":"Francia",
+		"foto":"https://www.freepngimg.com/thumb/potato/7-potato-png-images-pictures-download-thumb.png",
+		"cantidad":70,
+		"precio": 3.99
+	}
+]
