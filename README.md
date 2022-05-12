@@ -1,6 +1,6 @@
 # Some old examples from Server-Client
 
-These are some basic petition using PHP, JavaScript, AJAX and objects such as XML and JSON
+These are some basic petition using PHP, JavaScript, AJAX and objects such as XML and JSON (old)
 
 Quick example:
 
